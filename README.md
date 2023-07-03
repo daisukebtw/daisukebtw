@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisukebtw&label=Profile%20views&color=0e75b6&style=flat" alt="daisukebtw" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Ansible, CI/CD**
+🌱 I’m currently learning **Docker, Kubernetes, Ansible, CI/CD**
 
-- 👨‍💻 All of my projects are available at [www.GitHub.com/daisukebtw](www.GitHub.com/daisukebtw)
+👨‍💻 All of my projects are available at [www.GitHub.com/daisukebtw](www.GitHub.com/daisukebtw)
 
-- 📫 How to reach me **daisukebtw@gmail.com**
+📫 How to reach me **daisukebtw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
