@@ -1,15 +1,23 @@
-### Hi there 👋, my name is Vitali Aleksandrov
-#### I am Beginner in DevOps Engineering
-I'm Vitali Aleksandrov, Started learning DevOps Engineering in March 2023 🚀
+<h1 align="center">Hi 👋, I'm Vitali Aleksandrov</h1>
+<h3 align="center">Beginner in DevOps Engineering</h3>
 
-Skills: Linux / AWS / Docker / Kubernetes
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daisukebtw&label=Profile%20views&color=0e75b6&style=flat" alt="daisukebtw" /> </p>
 
-- 🔭 I’m currently working on Port of Tallinn 
-- 🌱 I’m currently learning DevOps 
+- 🌱 I’m currently learning **Docker, Kubernetes, Ansible, CI/CD**
 
+- 👨‍💻 All of my projects are available at [www.GitHub.com/daisukebtw](www.GitHub.com/daisukebtw)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daisukebtw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daisukebtw/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bezdarbtw/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://www.docker.com/company/newsroom/media-resources/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kubernetes.svg' alt='kubernetes' height='40'>](https://uxwing.com/kubernetes-icon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg' alt='ansible' height='40'>](https://logos-download.com/10121-ansible-logo-download.html)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://www.freepik.com/icon/linux-logo_25719)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2Fdownloads%2FGit-Icon-1788C.png&tbnid=jpq4xLgv36ZQ1M&vet=12ahUKEwiX5sfqqfL_AhXQqosKHet2CgwQMygBegUIARCyAQ..i&imgrefurl=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&docid=zURF9QyvmP0d4M&w=383&h=383&q=git%20logo&ved=2ahUKEwiX5sfqqfL_AhXQqosKHet2CgwQMygBegUIARCyAQ)  
+- 📫 How to reach me **daisukebtw@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daisukebtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daisukebtw" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daisukebtw&show_icons=true&locale=en" alt="daisukebtw" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/daisukebtw)  
 
-![Profile views](https://gpvc.arturio.dev/daisukebtw)  
