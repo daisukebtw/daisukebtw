@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisukebtw&label=Profile%20views&color=0e75b6&style=flat" alt="daisukebtw" /> </p>
 
-🌱 I’m currently learning **Docker, Kubernetes, Ansible, CI/CD**
+🌱 I’m currently learning **Docker, Kubernetes, Ansible**
 
 👨‍💻 All of my projects are available at [www.GitHub.com/daisukebtw](www.GitHub.com/daisukebtw)
 
