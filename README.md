@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitali Aleksandrov</h1>
-<h3 align="center">Beginner in DevOps Engineering</h3>
+<h3 align="center">Mastering IT Field 🎯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisukebtw&label=Profile%20views&color=0e75b6&style=flat" alt="daisukebtw" /> </p>
 
-🌱 I’m currently learning **Docker, Kubernetes, Ansible**
+🌱 I’m currently learning **Networking 🌐**
 
 👨‍💻 All of my projects are available at [www.GitHub.com/daisukebtw](www.GitHub.com/daisukebtw)
 
